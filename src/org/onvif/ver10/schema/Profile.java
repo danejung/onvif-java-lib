@@ -1,7 +1,7 @@
 //
 // Diese Datei wurde mit der JavaTM Architecture for XML Binding(JAXB) Reference Implementation, v2.2.5-2 generiert 
 // Siehe <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// �nderungen an dieser Datei gehen bei einer Neukompilierung des Quellschemas verloren. 
+// nderungen an dieser Datei gehen bei einer Neukompilierung des Quellschemas verloren.
 // Generiert: 2014.02.04 um 12:22:03 PM CET 
 //
 
@@ -25,7 +25,7 @@ import javax.xml.namespace.QName;
  * <?xml version="1.0" encoding="UTF-8"?&gt;<br xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xop="http://www.w3.org/2004/08/xop/include" xmlns:xs="http://www.w3.org/2001/XMLSchema"/&gt;
  * </pre>
  * 
- * An NVT shall provide at least one media profile at boot. An NVT should provide �ready to use� profiles for the most common media configurations that the device offers.
+ * An NVT shall provide at least one media profile at boot. An NVT should provide ready to use profiles for the most common media configurations that the device offers.
  * 
  * <pre>
  * <?xml version="1.0" encoding="UTF-8"?&gt;<br xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tt="http://www.onvif.org/ver10/schema" xmlns:wsnt="http://docs.oasis-open.org/wsn/b-2" xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xop="http://www.w3.org/2004/08/xop/include" xmlns:xs="http://www.w3.org/2001/XMLSchema"/&gt;
@@ -35,7 +35,7 @@ import javax.xml.namespace.QName;
  * example, the dynamic configurations can be created by the NVT depending on current available encoding resources.
  * 
  * <p>
- * Java-Klasse f�r Profile complex type.
+ * Java-Klasse fr Profile complex type.
  * 
  * <p>
  * Das folgende Schemafragment gibt den erwarteten Content an, der in dieser Klasse enthalten ist.

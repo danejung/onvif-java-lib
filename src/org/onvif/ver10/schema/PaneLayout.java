@@ -1,7 +1,7 @@
 //
 // Diese Datei wurde mit der JavaTM Architecture for XML Binding(JAXB) Reference Implementation, v2.2.5-2 generiert 
 // Siehe <a href="http://java.sun.com/xml/jaxb">http://java.sun.com/xml/jaxb</a> 
-// �nderungen an dieser Datei gehen bei einer Neukompilierung des Quellschemas verloren. 
+// nderungen an dieser Datei gehen bei einer Neukompilierung des Quellschemas verloren.
 // Generiert: 2014.02.04 um 12:22:03 PM CET 
 //
 
@@ -24,7 +24,7 @@ import org.w3c.dom.Element;
  * A pane layout describes one Video window of a display. It links a pane configuration to a region of the screen.
  * 
  * <p>
- * Java-Klasse f�r PaneLayout complex type.
+ * Java-Klasse fr PaneLayout complex type.
  * 
  * <p>
  * Das folgende Schemafragment gibt den erwarteten Content an, der in dieser Klasse enthalten ist.
